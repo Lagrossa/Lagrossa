@@ -15,9 +15,9 @@
   <p align="center" height='140px' > <img src="https://komarev.com/ghpvc/?username=Lagrossa&label=visitors&color=31c442&style=plastic" alt="Lagrossa" /> </p>
   </h3>
 
-Howdy! I'm an 18-year-old from Texas who likes to listen to music and code, sometimes at the same time.
+Howdy! I'm an 18-year-old from Texas who likes to listen to music and code, sometimes at the same time. I like otters but only sea otters because river otters are evil and kinda ugly.
 
-Interests: Video Games, Game Development [ Unity, Godot ], Programming, Discrete Math [ Vectors ], Animals, Music, Pixel Art, Retro, Latin.
+Interests: Video Games, Game Development [ Unity, Godot ], Programming, Discrete Math [ Vectors ], Artificial Intelligence, Animals, Music, Pixel Art, Retro, Latin.
 
 I'm currently pursuing a degree in Computer Science or Game Development.
 
