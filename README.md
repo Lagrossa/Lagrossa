@@ -35,7 +35,7 @@ I'm currently pursuing a degree in Computer Science or Game Development.
 </p>
 
 
-<a href="https://github.com/Lagrossa"><img alt="Lagrossa's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Lagrossa&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_icons=true&count_private=true&hide_border=true" height="192px"/></a>
-<a href="https://github.com/Lagrossa"><img alt="Lagrossa's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lagrossa&hide=ASP.NET,Jupyter Notebook&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=151515&title_color=fff&icon_color=79ff97" height="192px"/></a>
+<a href="https://github.com/Lagrossa"><img alt="Lagrossa's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Lagrossa&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_icons=true&count_private=true&hide_border=true" height="192px" width="300"/></a>
+<a href="https://github.com/Lagrossa"><img alt="Lagrossa's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lagrossa&hide=ASP.NET,Jupyter Notebook&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=151515&title_color=fff&icon_color=79ff97" height="192px" width="300"/></a>
 
 ![footer](https://imgur.com/yF6Y7Gx.gif)
