@@ -16,6 +16,7 @@
   </h3>
 
 ![Imgur](https://imgur.com/oNqWySX.gif)
+
 Howdy! I'm an 18-year-old from Texas who likes to listen to music and code, sometimes at the same time. I like otters but only sea otters because river otters are evil and kinda ugly.
 
 Interests: Video Games, Game Development [ Unity, Godot ], Programming, Discrete Math [ Vectors ], Artificial Intelligence, Animals, Music, Pixel Art, Retro, Latin.
