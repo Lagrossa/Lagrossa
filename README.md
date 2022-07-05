@@ -41,3 +41,4 @@ I'm currently pursuing a degree in Computer Science or Game Development.
 <a href="https://github.com/Lagrossa"><img alt="Lagrossa's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lagrossa&hide=ASP.NET,Jupyter Notebook&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=151515&title_color=fff&icon_color=79ff97" height="192px" width="420"/></a>
 
 ![footer](https://imgur.com/yF6Y7Gx.gif)
+ <!--- If you couldn't tell... I'm a big Toby Fox fan :3 -->
