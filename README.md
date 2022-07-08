@@ -13,7 +13,7 @@
 
   ![Imgur](https://imgur.com/IXOFFhj.gif)
   <p align="center" height='140px' > <img src="https://komarev.com/ghpvc/?username=Lagrossa&label=visitors&color=79616E&style=plastic" alt="Lagrossa" /> </p>
-  <!--- Howdy! If you're reading this, the hex value '79616E' which is used in the line above actually spells out the first 3 letters of my name (if you convert it to ASCII :3 I know the colors don't necessarily fit but I thought that would be kinda cool to add :D --->
+  <!--- Howdy! If you're reading this, the hex value '79616E' which is used in the line above actually spells out the first 3 letters of my name (if you convert it to ASCII :3 I know the colors don't necessarily fit but I thought that would be kinda cool to add :D  --->
   </h3>
 
 ![Imgur](https://imgur.com/oNqWySX.gif)
