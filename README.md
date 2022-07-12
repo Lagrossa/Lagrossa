@@ -24,7 +24,7 @@ I go by quite a few names online so you might know me as: Baku, Chewbaku, Zenith
 
 Interests: Video Games, Game Development [ Unity, Godot ], Programming, Discrete Math [ Vectors ], Artificial Intelligence, Animals, Music, Pixel Art, Retro, Latin.
 
-I'm currently pursuing a degree in Computer Science or Game Development.
+I'm currently pursuing a degree in Computer Science or Game Development or maybe Cyber Security? I'm kinda indecisive.
 
 ![Imgur](https://imgur.com/oNqWySX.gif)
 
