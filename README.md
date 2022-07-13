@@ -1,6 +1,6 @@
 <h3 align="center">
   
-  ![header](https://imgur.com/R0fP5O8.gif)
+  ![header](https://imgur.com/R0fP5O8.gif) 
   
   \- | Welcome to my GitHub | - 
 
