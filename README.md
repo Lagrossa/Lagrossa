@@ -28,7 +28,7 @@ I'm currently pursuing a degree in Computer Science or Game Development or maybe
 
 ![Imgur](https://imgur.com/oNqWySX.gif)
 
-<p align="center">
+<p align="center"> 
 <img src="https://user-images.githubusercontent.com/59575502/127426965-45da81b5-987d-4f44-b4d7-249fae487a0a.png" alt="csharp" width="25" height="25" />
 <img src="https://user-images.githubusercontent.com/59575502/127427979-7eddf4e0-1d7e-4735-8564-6a0f641130d6.png" alt="visualstudio" width="25" height="25" />
 <img src="https://user-images.githubusercontent.com/59575502/127427980-4b5ba4cf-daee-474f-a500-872181ccc470.png" alt="vscode" width="25" height="25" />
