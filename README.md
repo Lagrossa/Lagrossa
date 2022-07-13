@@ -4,7 +4,7 @@
   
   \- | Welcome to my GitHub | -
 
-![img](https://custom-icon-badges.herokuapp.com/badge/Repo-blue.svg?logo=repo)
+![img](https://custom-icon-badges.herokuapp.com/badge/Repo-blue.svg?logo=repo) 
 ![img](https://custom-icon-badges.herokuapp.com/badge/Star-yellow.svg?logo=star)
 ![img](https://custom-icon-badges.herokuapp.com/badge/Issue-red.svg?logo=issue)
 ![img](https://custom-icon-badges.herokuapp.com/badge/Fork-orange.svg?logo=fork)
