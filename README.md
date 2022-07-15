@@ -20,8 +20,6 @@
 
 Howdy! I'm an 18-year-old from Texas who likes to listen to music and code, usually at the same time. I like otters but only sea otters because river otters are evil and kinda ugly. 
 
-I go by quite a few names online so you might know me as: Baku, Chewbaku, Zenith, Sol, Solus, Apeiron, Spot, Spotter, Lyric, Mike, Pangu, Cow, Sheep, Wolf (and probably a bunch of other animal names), etc.) Point is, hi, if you know me. This is my sorta 'business casual' github where I post random stuff I make.
-
 Interests: Video Games, Game Development [ Unity, Godot ], Programming, Cyber Security, Raspberry Pi's, Discrete Math [ Vectors ], Artificial Intelligence, Animals, Music, Pixel Art, Retro, Latin.
 
 I'm currently pursuing a degree in Computer Science or Game Development or maybe Cyber Security? I'm kinda indecisive.
