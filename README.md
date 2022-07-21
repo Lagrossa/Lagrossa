@@ -33,8 +33,10 @@ I'm currently pursuing a degree in Computer Science or Game Development or maybe
 <img src="https://user-images.githubusercontent.com/59575502/127427981-bfaa39a1-bce1-4f63-85c4-f61f14f39f46.png" alt="windows" width="25" height="25" />
 <img src="https://user-images.githubusercontent.com/59575502/127428627-06e9cfab-80ba-45a2-8891-96121397ec9c.png" alt="java" width="25" height="25" />
 <img src="https://user-images.githubusercontent.com/59575502/127426759-a687aa90-d647-46c9-86f7-c8e948f8095e.png" alt="python" width="25" height="25" />
-<img src="https://imgur.com/CNgwxYK.png" alt="python" width="25" height="25" />
+<img src="https://imgur.com/CNgwxYK.png" alt="unity" width="25" height="25" />
+<img src="https://imgur.com/KF3v7nW.png" alt="godot" width="25" height="25 />
 </p>
+
 
 
 <a href="https://github.com/Lagrossa"><img alt="Lagrossa's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Lagrossa&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151516&show_icons=true&count_private=true&hide_border=true" height="192px" width="420"/></a>
