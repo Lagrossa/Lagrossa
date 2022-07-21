@@ -42,3 +42,6 @@ I'm currently pursuing a degree in Computer Science or Game Development or maybe
 
 ![footer](https://imgur.com/yF6Y7Gx.gif)
  <!--- If you couldn't tell... I'm a big Toby Fox fan :3 -->
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lagrossa&repo=Random-Unity-Stuff&theme=dark)](https://github.com/Lagrossa/Random-Unity-Stuff)
