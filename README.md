@@ -20,7 +20,7 @@
 
 Howdy! I'm an 18-year-old from Texas who likes to listen to music and code, usually at the same time. I like otters but only sea otters because river otters are evil and kinda ugly. 
 
-Interests: Video Games, Game Development [ Unity, Godot ], Programming, Cyber Security, Raspberry Pi's, Discrete Math [ Vectors ], Artificial Intelligence, Animals, Music, Pixel Art, Retro, Latin.
+Interests: Video Games, Game Development [ Unity, Godot ], Programming, Cyber Security, Raspberry Pi's, Discrete Math, Artificial Intelligence, Animals, Music, Pixel Art, Retro, Latin, Space.
 
 I'm currently pursuing a degree in Computer Science or Game Development or maybe Cyber Security? I'm kinda indecisive.
 
