@@ -2,7 +2,7 @@
   
   ![header](https://imgur.com/R0fP5O8.gif) 
   
-  \- | Welcome to my GitHub | - 
+  \- | Welcome to my profile! | - 
 
 ![img](https://custom-icon-badges.herokuapp.com/badge/Repo-blue.svg?logo=repo) 
 ![img](https://custom-icon-badges.herokuapp.com/badge/Star-yellow.svg?logo=star)
@@ -18,7 +18,7 @@
 
 ![Imgur](https://imgur.com/oNqWySX.gif)
 
-Howdy! I'm an 18-year-old from Texas who likes to listen to music and code, usually at the same time. I like otters but only sea otters because river otters are evil and kinda ugly. 
+Howdy! I'm an 18-year-old from Texas who likes to listen to music and code, usually at the same time. I spread otter propoganda.
 
 Interests: Video Games, Game Development [ Unity, Godot ], Programming, Cyber Security, Raspberry Pi's, Discrete Math, Artificial Intelligence, Animals, Music, Pixel Art, Retro, Latin, Space.
 
