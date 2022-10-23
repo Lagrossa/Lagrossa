@@ -2,7 +2,7 @@
   
   ![header](https://imgur.com/R0fP5O8.gif) 
   
-  \- | Welcome to my profile! | - 
+  \- Vae victis - 
 
 ![img](https://custom-icon-badges.herokuapp.com/badge/Repo-blue.svg?logo=repo) 
 ![img](https://custom-icon-badges.herokuapp.com/badge/Star-yellow.svg?logo=star)
