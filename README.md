@@ -18,11 +18,13 @@
 
 ![Imgur](https://imgur.com/oNqWySX.gif)
 
-Howdy! I'm an 18-year-old from Texas who likes to listen to music and code, usually at the same time. I spread otter propoganda.
+Howdy! I'm a 19-year-old from Texas who likes to listen to music and code, usually at the same time. I spread otter propoganda.
 
-Interests: Video Games, Game Development [ Unity, Godot ], Programming, Cyber Security, Raspberry Pi's, Discrete Math, Artificial Intelligence, Animals, Music, Pixel Art, Retro, Latin, Space, Anime.
+Interests: Video Games, Game Development [ Unity, Godot ], Programming, AR/VR, Cyber Security, Raspberry Pi's, Discrete Math, Artificial Intelligence, Animals, Music, Pixel Art, Retro, Latin, Space, Anime.
 
 I'm currently pursuing a degree in Computer Science or Game Development or maybe Cyber Security? I'm kinda indecisive.
+
+I research Augmented and Virtual Reality.
 
 ![Imgur](https://imgur.com/oNqWySX.gif)
 
