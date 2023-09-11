@@ -24,7 +24,7 @@ Interests: Video Games, Game Development [ Unity, Godot ], Programming, AR/VR, C
 
 I'm currently pursuing a degree in Computer Science or Game Development or maybe Cyber Security? I'm kinda indecisive.
 
-<a href= "https://peer.asee.org/a-feasibility-study-of-spatial-cognition-assessment-in-virtual-reality-for-computer-aided-design-students"> I research Augmented and Virtual Reality.
+<a href= "https://peer.asee.org/authors/yannis-lagrosa"> I research Augmented and Virtual Reality.
 
 ![Imgur](https://imgur.com/oNqWySX.gif)
 
