@@ -22,7 +22,7 @@ Howdy! I'm a 20-year-old from Texas who likes to listen to music and code, usual
 
 Interests: Video Games, Game Development [ Unity, Godot ], Programming, AR/VR, Cyber Security, Raspberry Pi's, Discrete Math, Artificial Intelligence, Animals, Music, Pixel Art, Retro, Latin, Space, Anime.
 
-I'm currently pursuing a degree in Computer Science or Game Development or maybe Cyber Security? I'm kinda indecisive.
+I'm currently pursuing a degree in Computer Science with a focus in Information Assurance.
 
 <a href= "https://peer.asee.org/authors/yannis-lagrosa"> I research Augmented and Virtual Reality.
 
