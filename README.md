@@ -18,11 +18,9 @@
 
 ![Imgur](https://imgur.com/oNqWySX.gif)
 
-Howdy! I'm a 21-year-old from Texas who likes to listen to music and code, usually at the same time. I spread otter propoganda.
+Howdy! I'm a 22-year-old from Texas who likes to listen to music and code, usually at the same time. I spread otter propoganda.
 
 Interests: Video Games, Game Development [ Unity, Godot ], Programming, AR/VR, Reverse Engineering, Cyber Security, Raspberry Pi's, Discrete Math, Artificial Intelligence, Animals, Music, Pixel Art, Retro, Latin, Space, Anime.
-
-I'm currently pursuing a degree in Computer Science with a focus in Information Assurance.
 
 <a href= "https://peer.asee.org/authors/yannis-lagrosa"> I research Augmented and Virtual Reality.
 
