@@ -20,7 +20,7 @@
 
 Howdy! I'm a 22-year-old from Texas who likes to listen to music and code, usually at the same time. I spread otter propaganda.
 
-My current interests are: Reverse Engineering, Cyber Security, Discrete Math, Artificial Intelligence, and Hacking.
+My current interests are: Reverse Engineering, Cyber Security, Discrete Math, Artificial Intelligence, and Malware.
 
 <a href= "https://peer.asee.org/authors/yannis-lagrosa"> I research Augmented and Virtual Reality.
 
